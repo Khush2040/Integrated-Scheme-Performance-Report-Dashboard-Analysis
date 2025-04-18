@@ -42,5 +42,4 @@ The dashboard provides an interactive view of:
 - `Integrated_Scheme_Dashboard.xlsx`: The main dashboard file with visuals and slicers.
 
 ## Purpose
-
 This dashboard was created to simplify complex data and make government scheme analysis more accessible and actionable for decision-makers, analysts, and development teams.
