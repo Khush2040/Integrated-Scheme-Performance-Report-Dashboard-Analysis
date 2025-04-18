@@ -24,6 +24,7 @@ The dashboard provides an interactive view of:
   - Gender
   - Scheme status
   - Number of schemes
+    
 - **Dynamic visualizations** including:
   - Pie Charts
   - Radar Graphs
